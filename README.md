@@ -1,3 +1,2 @@
-# repository1
-the first
-initial commit
+记录学习状况
+包括日志和笔记
